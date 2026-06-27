@@ -119,8 +119,7 @@ The application requires the following variables configured in your `.env` file:
 ---
 
 ## Deployment URL
-*(Add your production deployment links here once configured)*
-- Production API URL: `https://library-management-api.onrender.com` (Example)
+- Production API URL: [https://library-management-6bcb.onrender.com](https://library-management-6bcb.onrender.com)
 
 ---
 
